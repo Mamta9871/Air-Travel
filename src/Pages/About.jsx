@@ -1,4 +1,6 @@
 import React from "react";
+import Video from "./Video";
+import Compensation from "./Compensation";
 import claim1 from "../assets/claim1.png";
 import claim2 from "../assets/claim2.png";
 import claim3 from "../assets/claim3.png";
@@ -6,8 +8,9 @@ import claim4 from "../assets/claim4.png";
 import Frame from "../assets/Frame.png";
 import Image1 from "../assets/Image1.png";
 
-const Claim = () => {
+const About = () => {
   return (
+    <>
     <div className="bg-white">
       <div className="text-black p-6 text-center">
         <h1 className="text-3xl font-bold sm:text-4xl md:text-5xl">
@@ -197,7 +200,10 @@ const Claim = () => {
         />
       </div>
     </div>
+    <Video/>
+    <Compensation/>
+    </>
   );
 };
 
-export default Claim;
+export default About;

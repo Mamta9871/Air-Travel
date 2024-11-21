@@ -1,21 +1,17 @@
 // src/App.js
 import React from 'react';
 import Navbar from './components/Navbar';
-import Home from './components/Home';
-import Claim from './components/Claim';
-import Video from './components/Video';
-import Compensation from './components/Compensation';
-import Faq from './components/Faq';
-import Footer from './components/Footer';
+import Home from './Pages/Home';
+import About from './Pages/About';
+import Faq from './Pages/Faq';
+import Footer from './Pages/Footer';
 
 function App() {
   return (
     <div className='overflow-x-hidden'>
       <Navbar />
       <Home />
-      <Claim/>
-      <Video/>
-      <Compensation/>
+      <About/>
       <Faq/> 
       <Footer/>
     </div>
