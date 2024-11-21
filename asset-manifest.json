@@ -1,0 +1,24 @@
+{
+  "files": {
+    "main.css": "/Mamta9871/static/css/main.b13626a2.css",
+    "main.js": "/Mamta9871/static/js/main.920db8e9.js",
+    "static/js/453.b8dc2f23.chunk.js": "/Mamta9871/static/js/453.b8dc2f23.chunk.js",
+    "static/media/video.png": "/Mamta9871/static/media/video.ed1928814eba47c64611.png",
+    "static/media/Image1.png": "/Mamta9871/static/media/Image1.6616dae53d0237958a03.png",
+    "static/media/Aircraft.png": "/Mamta9871/static/media/Aircraft.f45f648012381b6896e6.png",
+    "static/media/gift.png": "/Mamta9871/static/media/gift.a2129a52a664052b50cc.png",
+    "static/media/Frame.png": "/Mamta9871/static/media/Frame.83c8b6aa3d3309da0bd5.png",
+    "static/media/benefits.png": "/Mamta9871/static/media/benefits.39699f476da02c2b8557.png",
+    "static/media/comp.png": "/Mamta9871/static/media/comp.5f4846adc6c2047771af.png",
+    "static/media/logo.png": "/Mamta9871/static/media/logo.690999687658fc3ac2f9.png",
+    "static/media/claim1.png": "/Mamta9871/static/media/claim1.fc198d37af62d4d328cb.png",
+    "index.html": "/Mamta9871/index.html",
+    "main.b13626a2.css.map": "/Mamta9871/static/css/main.b13626a2.css.map",
+    "main.920db8e9.js.map": "/Mamta9871/static/js/main.920db8e9.js.map",
+    "453.b8dc2f23.chunk.js.map": "/Mamta9871/static/js/453.b8dc2f23.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.b13626a2.css",
+    "static/js/main.920db8e9.js"
+  ]
+}
